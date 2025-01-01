@@ -8,8 +8,6 @@ export default defineNuxtConfig({
       theme: {
         extend: {
           fontFamily: {
-            montserrat: ['Montserrat'],
-            'jetbrains-mono': ['JetBrains Mono'],
             inter: ['Inter'],
           },
         },
